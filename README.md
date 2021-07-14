@@ -11,7 +11,7 @@ A password, sometimes called a passcode, is a memorized secret, typically a stri
 
 
 
-If you wish to know more about it, you can refer to Password Wikipedia Page.
+If you wish to know more about it, you can refer to Password <a href="https://en.wikipedia.org/wiki/Password">Wikipedia Page.</a>
 
 
 
