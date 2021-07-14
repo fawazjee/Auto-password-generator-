@@ -14,15 +14,16 @@ A password, sometimes called a passcode, is a memorized secret, typically a stri
 If you wish to know more about it, you can refer to Password Wikipedia Page.
 
 
+
 usage : 
        
        git clone https://github.com/fawazjee/Auto-password-generator-.git
        
        goto dictionary to save
       
-      $cd Auto-password-generator
+       cd Auto-password-generator
       
-      $python3 autopassgen.py
+       python3 autopassgen.py
        
        
      
